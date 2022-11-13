@@ -2,7 +2,7 @@
 
 <h1>Halil Capuk</h1>
 <h2>Hakkımda</h2>
-<p>Merhaba ben Halil. Dünyada yaşıyorum. Yazılım öğrenmeye yeni başladım ve kendimi daha .ok geliştirmek istiyorum. Umarım istediğim seviyeye hızlıca ulaşırım.</p>
+<p>Merhaba ben Halil. Dünyada yaşıyorum. Yazılım öğrenmeye yeni başladım ve kendimi daha çok geliştirmek istiyorum. Umarım istediğim seviyeye hızlıca ulaşırım.</p>
 <h2>Yapmaktan Hoşlandığım Şeyler</h2>
 <h3>Dizi izlemek</h3>
 <p>Yabancı dizi izlemeyi çok severim</p>
